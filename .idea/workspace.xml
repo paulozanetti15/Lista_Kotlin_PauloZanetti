@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63ff14a7-3f74-43f8-82a1-2386d2a0005f" name="Changes" comment="Lista Finalizada" />
+    <list default="true" id="63ff14a7-3f74-43f8-82a1-2386d2a0005f" name="Changes" comment="Readme.md updated" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,14 +75,22 @@
       <option name="project" value="LOCAL" />
       <updated>1710371567000</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Readme.md updated">
+      <created>1710371685662</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710371685662</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ex03" />
     <MESSAGE value="Ex03 - updated" />
     <MESSAGE value="Lista Finalizada" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lista Finalizada" />
+    <MESSAGE value="Readme.md updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Readme.md updated" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
