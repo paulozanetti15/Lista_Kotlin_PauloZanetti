@@ -1,4 +1,5 @@
-//3. Crie uma classe chamada "Pessoa" com os atributos "nome" e "idade". Em seguida, crie uma lista de objetos "Pessoa" e ordene a lista em ordem alfabética pelo atributo "nome"
+//3. Crie uma classe chamada "Pessoa" com os atributos "nome" e "idade". Em seguida, crie uma lista de objetos
+// "Pessoa" e ordene a lista em ordem alfabética pelo atributo "nome"
 
 class Pessoa(val nome: String, val idade: Int)
 

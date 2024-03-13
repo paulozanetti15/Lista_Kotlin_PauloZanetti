@@ -4,10 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63ff14a7-3f74-43f8-82a1-2386d2a0005f" name="Changes" comment="Ex03">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Pessoa.kt" afterDir="false" />
+    <list default="true" id="63ff14a7-3f74-43f8-82a1-2386d2a0005f" name="Changes" comment="Ex03 - updated">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ContaBancaria.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ex04.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ex05.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ex07.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ex09.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ex11.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ex12.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ex13.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ex14.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Funcionario.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Triangulo.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Ex03.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Pessoa.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Pessoa.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +29,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -30,7 +41,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2deSY9uwXVFKooJAIrZmwMr4nNd" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -40,11 +53,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/paulo/Desktop/Estrutura de Dados/Lista_Kotlin_PauloZanetti",
+    "last_opened_file_path": "C:/Users/paulo/Downloads/Exercicios_kotlin-master",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.editor"
+    "settings.editor.selected.configurable": "preferences.pathVariables"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -63,26 +76,23 @@
       <option name="project" value="LOCAL" />
       <updated>1710368340923</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Ex03 - updated">
+      <created>1710369473073</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710369473073</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ex03" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ex03" />
+    <MESSAGE value="Ex03 - updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ex03 - updated" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="kotlin-function">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/Pessoa.kt</url>
-          <line>2</line>
-          <properties class="Pessoa" method="&lt;init&gt;">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
